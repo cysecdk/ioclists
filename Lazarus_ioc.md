@@ -18,4 +18,3 @@ kittimasszazs.hu
 mantis.quick.net.pl
 nrfm.lk
 turnscor.com
-google.com
